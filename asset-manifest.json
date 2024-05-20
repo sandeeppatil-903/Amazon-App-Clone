@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Amazon-App-Clone/static/css/main.f4ffc4c3.css",
-    "main.js": "/Amazon-App-Clone/static/js/main.9a3b48f1.js",
+    "main.js": "/Amazon-App-Clone/static/js/main.71b4ae76.js",
     "static/js/787.ebd7646a.chunk.js": "/Amazon-App-Clone/static/js/787.ebd7646a.chunk.js",
     "static/media/order-now.gif": "/Amazon-App-Clone/static/media/order-now.0e4d0d77826a37e2fc14.gif",
     "static/media/delivery.png": "/Amazon-App-Clone/static/media/delivery.1f4bcc8fd76f28a79332.png",
@@ -17,11 +17,11 @@
     "static/media/contact.png": "/Amazon-App-Clone/static/media/contact.14b267ff6d1ffc9e40ef.png",
     "index.html": "/Amazon-App-Clone/index.html",
     "main.f4ffc4c3.css.map": "/Amazon-App-Clone/static/css/main.f4ffc4c3.css.map",
-    "main.9a3b48f1.js.map": "/Amazon-App-Clone/static/js/main.9a3b48f1.js.map",
+    "main.71b4ae76.js.map": "/Amazon-App-Clone/static/js/main.71b4ae76.js.map",
     "787.ebd7646a.chunk.js.map": "/Amazon-App-Clone/static/js/787.ebd7646a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ffc4c3.css",
-    "static/js/main.9a3b48f1.js"
+    "static/js/main.71b4ae76.js"
   ]
 }
