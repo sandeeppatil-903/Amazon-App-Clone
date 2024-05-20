@@ -174,7 +174,7 @@ function LowerNav() {
           <img
             alt=""
             onClick={() => navigate("/account")}
-            src=""
+            src={Default}
             className="default"
           />
         </div>
