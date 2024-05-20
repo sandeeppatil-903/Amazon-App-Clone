@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Amazon-App-Clone/static/css/main.f4ffc4c3.css",
+    "main.js": "/Amazon-App-Clone/static/js/main.9a3b48f1.js",
+    "static/js/787.ebd7646a.chunk.js": "/Amazon-App-Clone/static/js/787.ebd7646a.chunk.js",
+    "static/media/order-now.gif": "/Amazon-App-Clone/static/media/order-now.0e4d0d77826a37e2fc14.gif",
+    "static/media/delivery.png": "/Amazon-App-Clone/static/media/delivery.1f4bcc8fd76f28a79332.png",
+    "static/media/logo2.png": "/Amazon-App-Clone/static/media/logo2.ba6c9d3900bb3bfc83bf.png",
+    "static/media/loading.gif": "/Amazon-App-Clone/static/media/loading.8981e9a58e16221f8156.gif",
+    "static/media/error.png": "/Amazon-App-Clone/static/media/error.d52e3c1a21dbecc57c96.png",
+    "static/media/empty.png": "/Amazon-App-Clone/static/media/empty.011a6ba680b0e6361a9e.png",
+    "static/media/cart-empty.png": "/Amazon-App-Clone/static/media/cart-empty.9c5e89fb4f9511722096.png",
+    "static/media/default.png": "/Amazon-App-Clone/static/media/default.05c1018804fdc062dd82.png",
+    "static/media/logo.png": "/Amazon-App-Clone/static/media/logo.8c4d7640862a7c7e8390.png",
+    "static/media/user.png": "/Amazon-App-Clone/static/media/user.7bb7dda85aeac570535b.png",
+    "static/media/A-logo.png": "/Amazon-App-Clone/static/media/A-logo.0a855e33e4fec762350c.png",
+    "static/media/contact.png": "/Amazon-App-Clone/static/media/contact.14b267ff6d1ffc9e40ef.png",
+    "index.html": "/Amazon-App-Clone/index.html",
+    "main.f4ffc4c3.css.map": "/Amazon-App-Clone/static/css/main.f4ffc4c3.css.map",
+    "main.9a3b48f1.js.map": "/Amazon-App-Clone/static/js/main.9a3b48f1.js.map",
+    "787.ebd7646a.chunk.js.map": "/Amazon-App-Clone/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ffc4c3.css",
+    "static/js/main.9a3b48f1.js"
+  ]
+}
